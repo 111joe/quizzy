@@ -43,7 +43,7 @@ public class QuestionToJSON {
         corAnswers12.add("в");
         corAnswers12.add("г");
 
-        String[] answers8 = {"Сингапур", "Мумбаи", "Пекин", "Дали"};
+        String[] answers8 = {"Сингапур", "Мубаи", "Пекин", "Дали"};
         TreeSet<String> corAnswers13 = new TreeSet<>();
         corAnswers13.add("б");
         corAnswers13.add("г");
